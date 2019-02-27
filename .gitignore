@@ -1,0 +1,4 @@
+*.log
+*.pyc
+api_key_tel.txt
+settings_bot.py
